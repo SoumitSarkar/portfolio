@@ -1,6 +1,17 @@
-title: Minimal theme
+title: <p align="center"> Soumit Sarkar </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  Data Science |
+  Machine Learning |
+  Generative AI
+ 
+  <br>  
+  I am a Data Science enthusiast
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
